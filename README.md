@@ -1,4 +1,4 @@
-CAS Spring Cloud Configuration Server Overlay Template
+CAS Spring Cloud Discovery Server Overlay Template
 ============================
 
 Generic CAS Spring Cloud Discovery Server WAR overlay.
